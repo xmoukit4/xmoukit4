@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mustapha Moukit</h1>
-<h3 align="center">A passionate Software Enginner Student</h3>
+<h3 align="center">A passionate Web Dev</h3>
 
-- 🌱 I’m currently learning **ReactJs/NodeJs**
 
 - 📫 How to reach me **xmoukit4@gmail.com**
 
